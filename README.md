@@ -16,7 +16,7 @@ Chit-Chat is a real-time chat application built using React and Firebase. It all
 - Netlify: Deployment platform
 
 ## To visit the app-website
-Visit [Handlebars templates](http://handlebarsjs.com/)
+Visit [https://chatter-box-application.netlify.app](https://chatter-box-application.netlify.app)
 
 
 ## To build this app
@@ -43,7 +43,7 @@ To run the app locally, follow these steps:
 
 ## Deployment
 
-The app is deployed on Netlify and can be accessed at [https://your-app-name.netlify.app](https://your-app-name.netlify.app).
+The app is deployed on Netlify and can be accessed at [https://chatter-box-application.netlify.app](https://chatter-box-application.netlify.app).
 
 ## Contributing
 
