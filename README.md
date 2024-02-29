@@ -10,8 +10,8 @@ Chit-Chat is a real-time chat application built using React and Firebase. It all
 - Image sharing: Users can send images to their friends within the chat interface.
 
 
-<image src="https://github.com/MrTejas/chatter-box/assets/72248519/1e6d5b14-fd0e-4a75-bc85-d7d213cb0a4f" width="300">
-<image src="https://github.com/MrTejas/chatter-box/assets/72248519/dc189de4-318d-4623-9a0b-1df920f9dd3f" width="300">
+<image src="https://github.com/MrTejas/chatter-box/assets/72248519/1e6d5b14-fd0e-4a75-bc85-d7d213cb0a4f" width="400">
+<image src="https://github.com/MrTejas/chatter-box/assets/72248519/dc189de4-318d-4623-9a0b-1df920f9dd3f" width="400">
    
 
 ## Technologies Used
